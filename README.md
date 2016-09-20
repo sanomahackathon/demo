@@ -1,5 +1,5 @@
-Symfony Demo Application
-========================
+Hackathon Demo App
+==================
 Changed
 
 The "Symfony Demo Application" is a reference application created to show how
