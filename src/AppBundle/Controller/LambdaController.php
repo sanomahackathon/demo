@@ -8,11 +8,6 @@ use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 
-/**
- * Controller used to manage blog contents in the public part of the site.
- *
- * @Route("/lambda")
- */
 class LambdaController extends Controller
 {
     /**
